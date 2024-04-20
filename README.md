@@ -32,8 +32,8 @@ You are required to do the following:
 
 6. Group teams based on their “Best position” and print the sum of their points for all positions.
 
-   Eg: Best Position     Points
+   Eg: Best Position          Points
 
-         1               25000
+         1                    25000
 
-         2               7000
+         2                    7000
